@@ -2,15 +2,30 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+RealDealz aims to make it easier to find the best deals on video games and software products by creating an all-in-one platform. This allows users to spend less time moving between multiple websites and allows for them to find their desired product quickly so they can spend less time searching and more time playing.
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+Our team conducted competitive analysis, heuristic evaluation, created personas and scenarios, and sketches to gain a better understanding of the users.
+
+- **Competitive Analysis:** Our team conducted an analysis of our primary competitors, namely Isthereanydeal.com, CheapShark, slickdeals.net, Humble Bundle, gg.deals, and Fanatical. The purpose of the analysis was to identify their major strengths and weaknesses, with the aim of leveraging this information to differentiate and enhance our own product.
+
+- **Heuristic Evaluation:** Our team performed a heuristic evaluation on our primary competitors to better understand the average user experience and usability of their sites to later leverage into our site.
+
+- **Personas and Scenarios:** Our team created personas and scenarios so we could focus on the specific needs and goals of our target demographic.
+
+- **Sketches:** Our team utilized sketching as a low-fidelity prototyping technique to explore and refine the user experience of our product.
 
 ## Findings
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+- **Competitive Analysis:**
+
+- **Heuristic Evaluation:**
+
+- **Personas and Scenarios:**
+
+- **Sketches:**
 
 ## Conclusions
 
@@ -18,4 +33,4 @@
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+- The personas created aren't overly diverse as our team hasn't had a chance to fully research the target demographic of our product.
