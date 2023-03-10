@@ -1,12 +1,10 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
+# RealDealz
 
-# !!!Project Name!!!
-
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+RealDealz is an all-in-one website that is dedicated to helping users find the best deals on video games and software products. The platform is designed to simplify the shopping experience for users by presenting all the best deals on games and software in one place, eliminating the need for users to scour the internet for the best offers. With RealDealz, users will be able to conveniently sort deals by category, platform, popularity, most recent, or best deal to quickly find the product they desire. Once the user finds the product they're looking for, they'll be able to easily click on the provided link to be redirected to the best place to purchase the product, saving them time and money.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[William Hunt](https://usabilityengineering.github.io/ux-portfolio-WCHunt/)** - Competitive Analysis, Personas and Scenarios, and Heuristic Evaluation
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
@@ -22,10 +20,12 @@
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+RealDealz simplifies the process of finding the best deals on video games and software products by aggregating deals from multiple sources and presenting them in one convenient location for users to browse and purchase. By eliminating the need for users to search multiple websites
+
+* Through competitive analysis, we found out that a few of our leading competitors are really effiecent at tracking down the latest and best video game deals. So, we're going to use their strengths and come up with new ideas to make our product even better.
+* Using heuristic evaluation, we identified areas for improvement in our product compared to our leading competitors, giving us an advantage in the market.
+* Our team developed personas and scenarios to better understand user needs and behaviors, so we could create a better interaction with the user.
+* The use of sketches allowed us to rapidly ideate and visualize design concepts, facilitating quick iteration and feedback.
 
 [Full phase I report](phaseI/)
 
