@@ -5,7 +5,7 @@ RealDealz is an all-in-one website that is dedicated to helping users find the b
 ## UX Team Members
 
 * **[William Hunt](https://usabilityengineering.github.io/ux-portfolio-WCHunt/)** - Competitive Analysis, Personas and Scenarios, and Heuristic Evaluation
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Bryan Brooks](https://usabilityengineering.github.io/ux-portfolio-bryanjbrooks/)** - Competitive Analysis, Persona and Senario, Heuristic Evaluation, and Sketch
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
