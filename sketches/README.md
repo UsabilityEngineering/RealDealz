@@ -10,4 +10,4 @@ This sketch is based on Xavier Walley and his senario of being an unemployed asp
 
 
 This sketch is based on the persona, Scottie Woodward, who is looking for a cheap indie game 
-![p1sketchMK](../sketches/P1_Sketch_MK.JPG)
+![p1sketchMK](../sketches/P1_Sketch_MK.jpg)
