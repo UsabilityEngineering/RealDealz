@@ -1,5 +1,7 @@
 # Personas
 ## Scottie Woodward
+![ScottieWoodward](../personas/Persona_Scottie.jpg)
+
 20 year old Male in Tempe, Arizona
 
 Arizona State University Student - Communications Major
@@ -9,6 +11,8 @@ Scottie, like most people his age, enjoys playing video games with his friends i
 **Goal:** to find the best deals on indie games and the cheapest game that the user and their friends can afford.
 
 ## Mark Steele
+![MarkSteel](../personas/Persona_Mark.jpg)
+
 46 year old male in Chicago, Illinois
 
 Financial Adviser - JPMorgan
@@ -19,6 +23,7 @@ Mark is trying to find the best prices of new and old video games to play in his
 **Goal:** to find the most affordable prices for both new and used video games, minimize the time spent on locating such deals, and maximize savings.
 
 ## Xavier Wally
+![XavierWally](../personas/Persona_Xavier.jpg)
 
 25 year old male in Bend, Oregon
 
