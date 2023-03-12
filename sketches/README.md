@@ -2,7 +2,7 @@
 
 ## Phase I
 
-![phaseIsketch](https://github.com/UsabilityEngineering/RealDealz/blob/main/sketches/Sketch.jpg)
+![phaseIsketch](../sketches/Sketch.jpg)
 
 
 This sketch is based on Xavier Walley and his senario of being an unemployed aspiring twitch streamer
