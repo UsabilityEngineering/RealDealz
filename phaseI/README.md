@@ -10,7 +10,7 @@ Our team conducted competitive analysis, heuristic evaluation, created personas 
 
 - **Competitive Analysis:** Our team conducted an analysis of our primary competitors, namely Isthereanydeal.com, CheapShark, slickdeals.net, Humble Bundle, gg.deals, and Fanatical. The purpose of the analysis was to identify their major strengths and weaknesses, with the aim of leveraging this information to differentiate and enhance our own product.
 
-- **Heuristic Evaluation:** Our team performed a heuristic evaluation on our primary competitors to better understand the average user experience and usability of their sites to later leverage into our site.
+- **Heuristic Evaluation:** Our team performed a heuristic evaluation on our strongest competitor to better understand the average user experience and usability of their site to later leverage into our site.
 
 - **Personas and Scenarios:** Our team created personas and scenarios so we could focus on the specific needs and goals of our target demographic.
 
@@ -18,19 +18,19 @@ Our team conducted competitive analysis, heuristic evaluation, created personas 
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
-- **Competitive Analysis:**
+- **Competitive Analysis:** When analyzing our competitors we discovered that many of the websites that they use are very clunky. We would benefit from a site that is much more simple and less cluttered than the competitors.
 
-- **Heuristic Evaluation:**
+- **Heuristic Evaluation:** While evaluating our strongest competitor using a heuristic evaluation, we discovered more subtle issues with their site. Sites like “isthereanydeal.com” are not great at handling errors, providing documentation or any contact information. Some of these errors include broken links, no indication that the site was loading, and not being able to report errors with the site.
 
-- **Personas and Scenarios:**
+- **Personas and Scenarios:** Writing personas and scenarios for multiple of our potential clients, allowed us to recognize who will be the most likely to use our product as well as what they would like our product to be able to accomplish.
 
-- **Sketches:**
+- **Sketches:** By sketching out how each persona would be able to satisfy their specific needs with our service, we were able to find an optimal layout for our site.
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Based on our findings from each of the research methods we conducted, we concluded that our UX design for our website should be relatively simple, less cluttered, and easier for the user to navigate. It should not only be simple and easy to use, but reliable and able to handle errors effectively and efficiently. In the future, we can use wireframes to better indicate the more specific details of the way we think the user would like the site to be laid out. If these recommendations are implemented in the future, it will lead to a more efficient and reliable website that could potentially surpass competitors.
 
 ## Caveats
 
 - The personas created aren't overly diverse as our team hasn't had a chance to fully research the target demographic of our product.
+- We did not interview any actual users of these products.
