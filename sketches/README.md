@@ -1,7 +1,7 @@
 # Sketches
 
 ## Phase I
-
+This sketch is based on the persona, of Mark Steele who is trying to find the best deal in the least amount of time.
 ![phaseIsketch](../sketches/Sketch.jpg)
 
 
