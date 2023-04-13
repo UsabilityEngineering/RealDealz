@@ -23,4 +23,7 @@ Based on the findings from the wireframes and cognitive walkthrough process, we 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+* The sample size was small and based on our already limited personas and scenarios, which might not represent the full spectrum of users that may visit our website.
+* We created the wireframes based on assumptions about our user's needs and preferences, which might not be fully accurate.
+* The cognitive walkthroughs might not provide unbiased interactions due to how the personas and scenarios might have overlap in their goals.
+* The issues with the search bar and filtering of tables in our wireframes were due to limitations in our team's skills and knowledge in implementing these features in Adobe Xd.
