@@ -10,7 +10,7 @@ Our team conducted competitive analysis, heuristic evaluation, created personas 
 
 - **Competitive Analysis:** Our team conducted an analysis of our primary competitors, namely Isthereanydeal.com, CheapShark, slickdeals.net, Humble Bundle, gg.deals, and Fanatical. The purpose of the analysis was to identify their major strengths and weaknesses, with the aim of leveraging this information to differentiate and enhance our own product.
 
-- **Heuristic Evaluation:** Our team performed a heuristic evaluation, which is a method for usabulity inspection that involves inspecting an interface and identifing any potential violations of a set of usability principles, on our strongest competitors to better understand the average user experience and usability of their site to later leverage into our site.
+- **Heuristic Evaluation:** Our team performed a heuristic evaluation, which is a method for usablity inspection that involves inspecting an interface and identifing any potential violations of a set of usability principles, on our strongest competitors to better understand the average user experience and usability of their site to later leverage into our site.
 
 - **Personas and Scenarios:** Our team created personas and scenarios so we could focus on the specific needs and goals of our target demographic.
 
