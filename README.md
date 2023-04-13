@@ -36,8 +36,8 @@ RealDealz simplifies the process of finding the best deals on video games and so
 During Phase II, we designed a wireframe of our website and had others perform three cognitive walkthroughs using various personas and scenarios to assess its functionality. Through this process, we discovered an increased demand for options to filter and sort products based on users' needs. We incorporated this feedback into the website's development, which resulted in better integration with informal feedback from the software engineering team, emphasizing the importance of sorting and filtering products. 
 
 * Our wireframes were designed to reflect user interactions with our product, and we utilized those insights to create an improved user experience.
-* Based on feedback from peer-led Cognitive Walkthroughs, it has been identified that there is a critical need to enhance the functionality of our product filters and search capabilities to better serve our users.
-* The Cognitive Walkthroughs also highlighted the need for a strategic application of visual design elements, including proper calls-to-action, to effectively highlight critical information and improve the overall user experience.
+* Based on feedback from peer-led cognitive walkthroughs, it has been identified that there is a critical need to enhance the functionality of our product filters and search capabilities to better serve our users.
+* The cognitive walkthroughs also highlighted the need for a strategic application of visual design elements, including proper calls-to-action, to effectively highlight critical information and improve the overall user experience.
 
 
 [Full phase II report](phaseII/)
