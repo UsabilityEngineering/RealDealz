@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+RealDealz aims to make it easier to find the best deals on video games and software products by creating an all-in-one platform. This allows users to spend less time moving between multiple websites and allows for them to find their desired product quickly so they can spend less time searching and more time playing.
 
 ## Methods
 
