@@ -19,7 +19,7 @@ Our team created wireframes and had other UX designers from the class conduct co
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Based on the findings from the wireframes and cognitive walkthrough process, we were able to identify several issues that greatly impact the user experience. We specifically need to ensure that we have a working search bar and filtering on the tables for each page that needs them. We also discovered the need to highlight information and buttons by using effective call-to-action so as to allow for users to have a more efficient experience. Moving forward, we will apply these new insights towards the building of our prototype so as to allow users to have a more meaningful and user-friendly experience 
 
 ## Caveats
 
