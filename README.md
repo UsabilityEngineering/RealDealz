@@ -5,7 +5,7 @@ RealDealz is an all-in-one website that is dedicated to helping users find the b
 ## UX Team Members
 
 * **[William Hunt](https://usabilityengineering.github.io/ux-portfolio-WCHunt/)** - Competitive Analysis, Personas and Scenarios, Heuristic Evaluation, Wireframes , Prototype, and Usability Study
-* **[Bryan Brooks](https://usabilityengineering.github.io/ux-portfolio-bryanjbrooks/)** - Competitive Analysis, Personas and Senarios, Heuristic Evaluation, Sketch, Wireframes, Prototype, Usability Study
+* **[Bryan Brooks](https://usabilityengineering.github.io/ux-portfolio-bryanjbrooks/)** - Competitive Analysis, Personas and Senarios, Heuristic Evaluation, Sketch, Wireframes, Prototype, and Usability Study
 * **[Maxwell Kuse](https://usabilityengineering.github.io/ux-portfolio-mwkuse/)** - Competitve Analysis, Personas and Scenarios, and Findings
 
 # User-Centered Design Artifacts
@@ -14,7 +14,7 @@ RealDealz is an all-in-one website that is dedicated to helping users find the b
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](Wireframes/)
-* [Prototype](Prototype/)
+* [Prototype](prototype/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
