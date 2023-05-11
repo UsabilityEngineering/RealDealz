@@ -5,7 +5,7 @@ RealDealz is an all-in-one website that is dedicated to helping users find the b
 ## UX Team Members
 
 * **[William Hunt](https://usabilityengineering.github.io/ux-portfolio-WCHunt/)** - Competitive Analysis, Personas and Scenarios, and Heuristic Evaluation
-* **[Bryan Brooks](https://usabilityengineering.github.io/ux-portfolio-bryanjbrooks/)** - Competitive Analysis, Personas and Senarios, Heuristic Evaluation, Sketch, Wireframes
+* **[Bryan Brooks](https://usabilityengineering.github.io/ux-portfolio-bryanjbrooks/)** - Competitive Analysis, Personas and Senarios, Heuristic Evaluation, Sketch, Wireframes, Prototype, Usability Study
 * **[Maxwell Kuse](https://usabilityengineering.github.io/ux-portfolio-mwkuse/)** - Competitve Analysis, Personas and Scenarios, and Findings
 
 # User-Centered Design Artifacts
@@ -14,7 +14,7 @@ RealDealz is an all-in-one website that is dedicated to helping users find the b
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](Wireframes/)
-* [Prototype](#) - Coming soon (phase III)!
+* [Prototype](Prototype/)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
@@ -46,9 +46,10 @@ During Phase II, we designed a wireframe of our website and had others perform t
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+During Phase III, we initiated a usability study using a prototype of our website, with participants performing a series of tasks, each rated for difficulty on a scale of 1 to 5. The study's feedback revealed key strengths of the prototype, such as its ease of use, the clear and salient filters and side menus, and the wide array of options available to the users.
+
+* Our prototype usability study gave us valuable insights into how our users interact with our product, enabling us to identify areas of strength and potential improvements to enhance the user experience.
+* Based on the participants' feedback from the usability study, we identified a need to make our calls-to-action more noticeable and to ensure the consistency of our side menus across all pages, to improve overall navigation and user engagement.
+* The usability study's outcomes also underscored the value of a systematic application of design elements, such as the positioning and highlighting of calls-to-action, to effectively draw attention to crucial information and enhance the overall user experience.
 
 [Full phase III report](phaseIII/)
