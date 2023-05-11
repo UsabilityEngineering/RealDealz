@@ -1,3 +1,3 @@
 # Prototype
 
-[Prototype](https://github.com/UsabilityEngineering/RealDealz/blob/main/prototype/RealDealz%20_Prototype.pdf)
+[Prototype](../prototype/RealDealz_Prototype.pdf)
