@@ -15,7 +15,7 @@ The primary method utilized in our research was a usability study, designed to r
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+The results of the usability study were encouraging as they highlighted several key strengths of our prototype, including its overall ease of use, the salience of filters and side menus, and the comprehensive variety of options available to users. Our application's ease of use was particularly highlighted in the fact that all five participants were able to successfully complete each of the four tasks. These positive feedback areas suggest that our design is intuitive and user-friendly, and provides a broad range of options that can cater to various user needs. However, the study also brought to light certain areas for improvement. Notably, calls to action were not sufficiently highlighted, which could potentially impact user engagement. Additionally, the side menu did not maintain consistency across all pages, which could lead to user confusion and disrupt the smooth navigation experience.
 
 ## Conclusions
 
