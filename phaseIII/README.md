@@ -6,7 +6,7 @@ RealDealz aims to make it easier to find the best deals on video games and softw
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+The primary method utilized in our research was a usability study, designed to rigorously evaluate our prototype by considering the direct experiences and feedback from our test users. Upon completion of each task, users were asked to rate their experience on a predefined scale and provide open-ended feedback regarding their impressions, difficulties encountered, and suggestions for improvement. This combination of quantitative and qualitative data collection allowed for a robust understanding of user experiences with the prototype, and informed our subsequent iterations in the product development process.
 
 ## Findings
 
