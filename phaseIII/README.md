@@ -8,6 +8,11 @@ RealDealz aims to make it easier to find the best deals on video games and softw
 
 The primary method utilized in our research was a usability study, designed to rigorously evaluate our prototype by considering the direct experiences and feedback from our test users. Upon completion of each task, users were asked to rate their experience on a predefined scale and provide open-ended feedback regarding their impressions, difficulties encountered, and suggestions for improvement. This combination of quantitative and qualitative data collection allowed for a robust understanding of user experiences with the prototype, and informed our subsequent iterations in the product development process.
 
+- Task 1: The purpose of the task is to simulate a scenario where you are looking to purchase a specific type of video game under a budget of $25. The goal is for a test user to guide us through the process of finding a game that meets the requirements and provide information on the game and its location for purchase.
+- Task 2: The purpose of this task is for the test user to guide us in finding the best price for a newly popular game called "Battle Toads" while considering a set financial situation between paychecks.
+- Task 3: The purpose of this task is to help the test user explore and find a grand strategy game within the genre that has been specified.
+- Task 4: The purpose of this task is for the test user to locate and purchase a game that is exclusively available on the Nintendo Switch platform. The objective is to find a game meeting this requirement and provide information on its location within the site. 
+
 ## Findings
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
