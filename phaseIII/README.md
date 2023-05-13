@@ -15,12 +15,21 @@ The primary method utilized in our research was a usability study, designed to r
 
 ## Findings
 
-The results of the usability study were encouraging as they highlighted several key strengths of our prototype, including its overall ease of use, the salience of filters and side menus, and the comprehensive variety of options available to users. Our application's ease of use was particularly highlighted in the fact that all five participants were able to successfully complete each of the four tasks. These positive feedback areas suggest that our design is intuitive and user-friendly, and provides a broad range of options that can cater to various user needs. However, the study also brought to light certain areas for improvement. Notably, calls to action were not sufficiently highlighted, which could potentially impact user engagement. Additionally, the side menu did not maintain consistency across all pages, which could lead to user confusion and disrupt the smooth navigation experience.
+- **Task 1:** All test users successfully accomplished the task, rating it as easy with a near unanimous score of 5 out of 5. Users found the task straightforward and reported that the site matched their expectations. However, some users provided feedback regarding the filters button, mentioning that it didn't meet their expectations.
+
+- **Task 2:** All test users successfully accomplished the task of finding the best price. They rated the task's difficulty as easy, with a unanimous score of 5 out of 5. Feedback from test users highlighted the salient placement of the search bar at the top and expressed that the searching process was straightforward.
+
+- **Task 3:** All test users were able to successfully accomplish the task of finding a game withing the category with the best price possible. Among the test users, 3 out of 5 gave a rating of 5 out of 5, while the remaining 2 test users gave a rating of 4 out of 5. Feedback from the test users included the observation that the category tab is easily noticeable, but there was criticism regarding the clarity of the category itself, suggesting that "genre" would be a more appropriate term. Additionally, the test users reported that the checkboxes for selecting options were not clickable.
+
+- **Task 4:** All test users successfully accomplished the task of finding the game for the given platform with the best price possible. They provided a near unanimous rating of 5 out of 5. Feedback from the users indicated that the filters were clear and straightforward. However, there was criticism regarding the placement of the current page the user was on, which caused confusion when swapping in the menu.
+
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+From our usability study, we discovered that while users found tasks easy to perform and appreciated the clarity of our filters, there were issues with the placement of the current page and confusion caused by swapping in the menu. These insights have led us to two key design recommendations. Firstly, we suggest improving the menu transition by considering a transition style that maintains users' spatial awareness within the platform, potentially utilizing animations or breadcrumbs. Secondly, we propose renaming "Category" to "Genre" to align with familiar language and user expectations in the gaming industry. These changes, aimed at reducing confusion and enhancing navigation, should inform our future design work.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+- checkbox and filtering is preset due to the "man behind the curtain" method of simulating a webpage.
+- preset data in tables meant test users could memorize information between tasks.
+- search bar was prefilled out to ensure operation for tasks.
