@@ -10,7 +10,6 @@ RealDealz is an all-in-one website that is dedicated to helping users find the b
 
 # User-Centered Design Artifacts
  
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](Wireframes/)
@@ -38,7 +37,6 @@ During Phase II, we designed a wireframe of our website and had others perform t
 * Our wireframes were designed to reflect user interactions with our product, and we utilized those insights to create an improved user experience.
 * Based on feedback from peer-led cognitive walkthroughs, it has been identified that there is a critical need to enhance the functionality of our product filters and search capabilities to better serve our users.
 * The cognitive walkthroughs also highlighted the need for a strategic application of visual design elements, including proper calls-to-action, to effectively highlight critical information and improve the overall user experience.
-
 
 [Full phase II report](phaseII/)
 
